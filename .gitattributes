@@ -1,0 +1,6 @@
+* text=auto
+*.asm       text eol=crlf linguist-language=Assembly
+*.8080      text eol=crlf linguist-language=Assembly
+*.8080asm   text eol=crlf linguist-language=Assembly
+*.i8080     text eol=crlf linguist-language=Assembly
+*.i8080asm  text eol=crlf linguist-language=Assembly
